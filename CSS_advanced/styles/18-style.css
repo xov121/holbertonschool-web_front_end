@@ -153,9 +153,7 @@ footer {
 
 .nav .nav-link {
   display: block;
-  padding: calc(var(--font-size-base) / 2) var(--font-size-base);
-  text-decoration: none;
-  color: var(--text-color);
+  padding: 0.5rem 1rem;
 }
 
 .nav .nav-link:hover {
