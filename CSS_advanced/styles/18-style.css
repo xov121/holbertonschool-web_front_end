@@ -131,7 +131,7 @@ footer {
   padding: var(--footer-padding);
 }
 
-.nav .navbar-menu {
+.navbar-menu {
   float: right;
 }
 
