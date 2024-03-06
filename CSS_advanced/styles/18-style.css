@@ -151,13 +151,13 @@ footer {
   margin: var(--nav-item-margin);
 }
 
-.nav-link {
+.nav .nav-link {
   display: block;
   padding: calc(var(--font-size-base) / 2) var(--font-size-base);
   text-decoration: none;
   color: var(--text-color);
 }
 
-.nav-link:hover {
+.nav .nav-link:hover {
   color: var(--nav-item-link-hover);
 }
