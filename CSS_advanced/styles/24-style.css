@@ -221,7 +221,7 @@ ul.row {
 
 .card-services a {
   display: block;
-  padding: calc(2 * 1rem);
+  padding: 2rem;
   background-color: var(--color-light-grey);
 }
 
